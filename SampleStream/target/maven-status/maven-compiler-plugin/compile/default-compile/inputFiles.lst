@@ -1,0 +1,9 @@
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/transformations/SplitSentenceTransformation.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/util/WordCountData.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/util/CharacterKeySelector2.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/util/CharacterKeySelector.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/transformations/SplitSentenceTransformation2.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/transformations/FilterStreamByCharacter.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/steams/StreamCreator.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/StreamingJob.java
+/Users/mehmet.guven/Desktop/myJavaProjects/SampleStream/src/main/java/com/sampleFlinkProject/BatchJob.java

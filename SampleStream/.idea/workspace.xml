@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="949fdbf6-48f3-41b8-814d-2b42c033febe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z7gMqf0Dzs21SIHjwOss8OYGS2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sampleFlinkProject.transformations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamingJob">
+    <configuration name="BatchJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sampleFlinkProject.BatchJob" />
+      <module name="SampleStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sampleFlinkProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sampleFlinkProject.StreamingJob" />
+      <module name="SampleStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sampleFlinkProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingJob" />
+        <item itemvalue="Application.BatchJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="949fdbf6-48f3-41b8-814d-2b42c033febe" name="Default Changelist" comment="" />
+      <created>1584195502051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584195502051</updated>
+      <workItem from="1584195504874" duration="15173000" />
+      <workItem from="1584727596442" duration="1935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="273" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584216492459">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="578" y="273" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.959@0.23.1680.959" timestamp="1584216492459" />
+    <state x="653" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1584283190086">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="653" y="218" key="#com.intellij.ide.util.MemberChooser/0.23.1680.957@0.23.1680.957" timestamp="1584199513991" />
+    <state x="653" y="218" key="#com.intellij.ide.util.MemberChooser/0.23.1680.959@0.23.1680.959" timestamp="1584283190086" />
+    <state x="578" y="283" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584218607795">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="578" y="283" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1680.959@0.23.1680.959" timestamp="1584218607795" />
+    <state x="322" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584213661637">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="322" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.959@0.23.1680.959" timestamp="1584213661637" />
+    <state x="407" y="306" width="668" height="471" key="#xdebugger.XInspectDialog" timestamp="1584221104548">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="407" y="306" width="668" height="471" key="#xdebugger.XInspectDialog/0.23.1680.959@0.23.1680.959" timestamp="1584221104548" />
+    <state width="1616" height="320" key="GridCell.Tab.0.bottom" timestamp="1584730293897">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1616" height="320" key="GridCell.Tab.0.bottom/0.23.1680.945@0.23.1680.945" timestamp="1584730293897" />
+    <state width="1616" height="316" key="GridCell.Tab.0.bottom/0.23.1680.957@0.23.1680.957" timestamp="1584339055090" />
+    <state width="1616" height="324" key="GridCell.Tab.0.bottom/0.23.1680.959@0.23.1680.959" timestamp="1584286579430" />
+    <state width="1616" height="320" key="GridCell.Tab.0.center" timestamp="1584730293896">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1616" height="320" key="GridCell.Tab.0.center/0.23.1680.945@0.23.1680.945" timestamp="1584730293896" />
+    <state width="1616" height="316" key="GridCell.Tab.0.center/0.23.1680.957@0.23.1680.957" timestamp="1584339055089" />
+    <state width="1616" height="324" key="GridCell.Tab.0.center/0.23.1680.959@0.23.1680.959" timestamp="1584286579430" />
+    <state width="1616" height="320" key="GridCell.Tab.0.left" timestamp="1584730293896">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1616" height="320" key="GridCell.Tab.0.left/0.23.1680.945@0.23.1680.945" timestamp="1584730293896" />
+    <state width="1616" height="316" key="GridCell.Tab.0.left/0.23.1680.957@0.23.1680.957" timestamp="1584339055089" />
+    <state width="1616" height="324" key="GridCell.Tab.0.left/0.23.1680.959@0.23.1680.959" timestamp="1584286579429" />
+    <state width="1616" height="320" key="GridCell.Tab.0.right" timestamp="1584730293897">
+      <screen x="0" y="23" width="1680" height="945" />
+    </state>
+    <state width="1616" height="320" key="GridCell.Tab.0.right/0.23.1680.945@0.23.1680.945" timestamp="1584730293897" />
+    <state width="1616" height="316" key="GridCell.Tab.0.right/0.23.1680.957@0.23.1680.957" timestamp="1584339055090" />
+    <state width="1616" height="324" key="GridCell.Tab.0.right/0.23.1680.959@0.23.1680.959" timestamp="1584286579430" />
+    <state width="1616" height="316" key="GridCell.Tab.1.bottom" timestamp="1584339055091">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1616" height="316" key="GridCell.Tab.1.bottom/0.23.1680.957@0.23.1680.957" timestamp="1584339055091" />
+    <state width="1616" height="316" key="GridCell.Tab.1.bottom/0.23.1680.959@0.23.1680.959" timestamp="1584283864016" />
+    <state width="1616" height="316" key="GridCell.Tab.1.center" timestamp="1584339055091">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1616" height="316" key="GridCell.Tab.1.center/0.23.1680.957@0.23.1680.957" timestamp="1584339055091" />
+    <state width="1616" height="316" key="GridCell.Tab.1.center/0.23.1680.959@0.23.1680.959" timestamp="1584283864015" />
+    <state width="1616" height="316" key="GridCell.Tab.1.left" timestamp="1584339055090">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1616" height="316" key="GridCell.Tab.1.left/0.23.1680.957@0.23.1680.957" timestamp="1584339055090" />
+    <state width="1616" height="316" key="GridCell.Tab.1.left/0.23.1680.959@0.23.1680.959" timestamp="1584283864015" />
+    <state width="1616" height="316" key="GridCell.Tab.1.right" timestamp="1584339055091">
+      <screen x="0" y="23" width="1680" height="957" />
+    </state>
+    <state width="1616" height="316" key="GridCell.Tab.1.right/0.23.1680.957@0.23.1680.957" timestamp="1584339055091" />
+    <state width="1616" height="316" key="GridCell.Tab.1.right/0.23.1680.959@0.23.1680.959" timestamp="1584283864015" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1584215727402">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.959@0.23.1680.959" timestamp="1584215727402" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sampleFlinkProject/transformations/TempWindowFunction.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
