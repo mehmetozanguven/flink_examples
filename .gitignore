@@ -2,5 +2,7 @@
 /source_csv/**
 /SampleStream/target/**
 /SampleStream/SampleStream.iml
+/SampleStream/.idea
 /StateExample/target/**
 /StateExample/SampleStream.iml
+/StateExample/.idea
