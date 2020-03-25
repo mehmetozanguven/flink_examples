@@ -1,0 +1,6 @@
+# don't include files:
+/source_csv/**
+/SampleStream/target/**
+/SampleStream/SampleStream.iml
+/StateExample/target/**
+/StateExample/SampleStream.iml
