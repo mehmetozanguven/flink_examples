@@ -30,7 +30,10 @@ public class VehicleInstantData implements Serializable
         return newData;
     }
 
-    private VehicleInstantData(String _id, String day_hour, String geohash, String latitude, String longitude, String vehicle_type, String speed, String day_year, String day_mounth, String day_day) {
+    private VehicleInstantData(String _id, String day_hour, String geohash,
+                               String latitude, String longitude,
+                               String vehicle_type, String speed,
+                               String day_year, String day_mounth, String day_day) {
         this._id = _id;
         this.day_hour = day_hour;
         this.geohash = geohash;
