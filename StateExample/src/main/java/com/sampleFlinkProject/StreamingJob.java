@@ -28,7 +28,7 @@ public class StreamingJob {
 
 		SingleOutputStreamOperator<VehicleInstantData> fastestVehicles = streamCreator.findFastestVehicleForEachType(keyByVehicleType);
 
-		fastestVehicles.print();
+		fastestVehicles.print().name("PrintResult");
 
 
 		// execute program

@@ -20,7 +20,7 @@ public class StreamCreator
 {
     public DataStream<String> getDataSourceStream(StreamExecutionEnvironment env, String filePath)
     {
-        return env.readTextFile(filePath);
+        return env.readTextFile(filePath).name("IBBDataSource");
     }
 
     public DataStream<String> getContinuouslyDataSourceStream(StreamExecutionEnvironment env, String filePath)
@@ -45,6 +45,6 @@ public class StreamCreator
 
     public SingleOutputStreamOperator<VehicleInstantData> findFastestVehicleForEachType(KeyedStream<VehicleInstantData, Tuple> vehicleKeyedStreamByVehicleType)
     {
-        return vehicleKeyedStreamByVehicleType.map(new FastestVehicleMapper());
+        return vehicleKeyedStreamByVehicleType.map(new FastestVehicleMapper()).name("FindFastestVehicle");
     }
 }
